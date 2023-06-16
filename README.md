@@ -7,9 +7,10 @@ more info about the project : github.com/EFeru
 This innovative project aims to provide a simple, cost-effective, and educational experience for robot enthusiasts of all levels.
 
 ## Installation
-git clone https://github.com/BartVanderHaagen/hover_bot.git
+create your workspace and source directory
 
-cd ..
+git clone https://github.com/ros-teleop/twist_mux.git
+git clone https://github.com/BartVanderHaagen/hover_bot.git
 
 colcon cuild --symlink-install
 
